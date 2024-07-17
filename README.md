@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=CSS3&logoColor=#1572B6"/>
   <img src="https://img.shields.io/badge/HTML5-red?style=plastic&logo=HTML5&logoColor=#E34F26"/>
   <img src="https://img.shields.io/badge/FLUTTER-orange?style=plastic&logo=FLUTTER&logoColor=#800080"/>
+  <img src="https://img.shields.io/badge/MYSQL-3766AB?style=flat-square&logo=MYSQL&logoColor=red"/></a>&nbsp 
 </div>
 <br><br><br>
 
