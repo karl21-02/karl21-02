@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=#ECD53F"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=CSS3&logoColor=#1572B6"/>
   <img src="https://img.shields.io/badge/HTML5-red?style=plastic&logo=HTML5&logoColor=#E34F26"/>
+  <img src="https://img.shields.io/badge/FLUTTER-orange?style=plastic&logo=FLUTTER&logoColor=#800080"/>
 </div>
 <br><br><br>
 
