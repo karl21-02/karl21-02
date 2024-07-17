@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-red?style=plastic&logo=HTML5&logoColor=#E34F26"/>
   <img src="https://img.shields.io/badge/FLUTTER-orange?style=plastic&logo=FLUTTER&logoColor=#800080"/>
   <img src="https://img.shields.io/badge/MYSQL-3766AB?style=flat-square&logo=MYSQL&logoColor=red"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/yellow?style=flat-square&logo=AWS&logoColor=yellow"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS-yellow?style=flat-square&logo=AWS&logoColor=yellow"/></a>&nbsp 
 </div>
 <br><br><br>
 
