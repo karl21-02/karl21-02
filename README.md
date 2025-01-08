@@ -26,10 +26,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/FLUTTER-orange?style=plastic&logo=FLUTTER&logoColor=#800080"/>
   <img src="https://img.shields.io/badge/MYSQL-3766AB?style=flat-square&logo=MYSQL&logoColor=red"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-yellow?style=flat-square&logo=AWS&logoColor=yellow"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/ANDROID STUDIO?style=flat-square&logo=ANDROID STUDIO&logoColor=green"/></a>&nbsp 
+  
 </div>
 <br><br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=manuna530)](https://solved.ac/manuna530/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=tokyonight)
 <br>
