@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 </div>
 <br><br><br>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=cobalt)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karl21-02&layout=compact&theme=tokyonight)
