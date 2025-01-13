@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </div>
 <br><br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=manuna530@gmail.com)](https://solved.ac/manuna530@gmail.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=manuna530)](https://solved.ac/manuna530)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=cobalt)
 <br>
