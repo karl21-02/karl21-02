@@ -134,17 +134,6 @@
 
 ###
 
-## 🔧 Tech Stack
-<p align="center">
-  <!-- 원하는 스택/툴 뱃지를 추가 -->
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/>
-</p>
-
 ---
 
 ## 💻 Baekjoon (BOJ) Stats
