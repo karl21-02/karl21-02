@@ -143,8 +143,3 @@
 </p>
 
 ---
-
-<!-- 하단 배너(옵션) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=90&section=footer&text=Thank%20You!&fontSize=20" />
-</p>
