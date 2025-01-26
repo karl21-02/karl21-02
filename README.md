@@ -1,37 +1,45 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Comman G 👋</h1>
+<p align="center">
+  <b>I'm a student developer with interest</b>
+</p>
 
-<!--
-**karl21-02/karl21-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 🏅 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Code%20With%20Karl!&fontSize=90)
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning Node.js & Typescript
+- 💬 Ask me anything about web development
+- ⚡ Fun fact: I love to explore new frameworks and technologies
 
-<div align="center">
-  <br><br>
-  <img src="https://img.shields.io/badge/JAVA-orange?style=plastic&logo=JAVA&logoColor=#ECD53F"/>
-  <img src="https://img.shields.io/badge/Spring Boot-green?style=plastic&logo=Spring Boot&logoColor=#6DB33F"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=#ECD53F"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=plastic&logo=CSS3&logoColor=#1572B6"/>
-  <img src="https://img.shields.io/badge/HTML5-red?style=plastic&logo=HTML5&logoColor=#E34F26"/>
-  <img src="https://img.shields.io/badge/FLUTTER-orange?style=plastic&logo=FLUTTER&logoColor=#800080"/>
-  <img src="https://img.shields.io/badge/MYSQL-3766AB?style=flat-square&logo=MYSQL&logoColor=red"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS-yellow?style=flat-square&logo=AWS&logoColor=yellow"/></a>&nbsp 
+<br/>
 
-</div>
-<br><br><br>
+## 📊 GitHub Stats
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=manuna530)](https://solved.ac/manuna530)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+         src="https://github-readme-stats.vercel.app/api?username=realcommang&show_icons=true&theme=tokyonight" 
+         alt="realcommang's GitHub stats" />
+  </a>
+</p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=cobalt)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karl21-02&theme=cobalt)
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=realcommang&layout=compact&theme=tokyonight" 
+       alt="Top Languages" />
+</p>
+
+<br/>
+
+## 🔗 Connect with me
+
+<p align="center">
+  <a href="https://github.com/realcommang" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://realcommang.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+  </a>
+  <!-- 필요하다면 다른 SNS나 포트폴리오 사이트 추가 -->
+</p>
