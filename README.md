@@ -34,7 +34,7 @@
        line-height: 1.6; 
        margin: 12px 0;">
     안녕하세요, <strong style="color:#6d597a;">홍길동</strong>입니다!<br/>
-    현재 <strong>백엔드</strong>와 <strong>AI CLOUD</strong> 분야에 열정을 가지고 있으며,<br/>
+    현재 <strong>백엔드</strong>와 <strong>CLOUD</strong> 분야에 열정을 가지고 있으며,<br/>
     세상을 바꾸는 코드를 향해 나아가는 <em style="color:#b56576;">개발자</em>입니다.<br/>
     협업과 학습을 즐기며, 도전적인 환경에서 성장하기를 좋아합니다.<br/>
     <br/>
