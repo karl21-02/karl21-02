@@ -71,28 +71,64 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- "그리스 여신" 스타일 감성으로, GitHub Stats 영역을 꾸며본 예시 -->
+
+<h2 align="center" style="color: #c99800; font-family:Georgia,serif;">
+  :classical_building: GitHub Stats<br/>
+  <em>~ Blessed by the Goddess of Code ~</em>
+</h2>
+
+<!-- 약간의 "고대 그리스" 느낌을 내기 위해, 본문에 간단한 문구와 수평선 장식 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/karl21-02/karl21-02/main/extra_assets/laurel_wreath.png" width="40" alt="laurel wreath" />
+  <br/>
+  <em style="font-size: 14px; color: #a57200;">
+    "May the Muses of Olympus guide these lines of code."<br/>
+    ─────────────────────────
+  </em>
+</div>
+
+<!-- GitHub Stats 카드 -->
 <p align="center">
-  <!-- GitHub Stats 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=radical" height="165" alt="github stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=radical" 
+    height="165" 
+    alt="GitHub Stats"
+    style="border: 2px solid gold; border-radius: 10px; margin:5px"
+  />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl21-02&layout=compact&theme=radical" height="165" alt="top langs" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl21-02&layout=compact&theme=radical" 
+    height="165" 
+    alt="Top Languages"
+    style="border: 2px solid gold; border-radius: 10px; margin:5px"
+  />
 </p>
 
-<!-- 깃허브 트로피 (옵션) -->
+<!-- 깃허브 트로피 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karl21-02&row=1&column=7&theme=darkhub" alt="trophy" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=karl21-02&row=1&column=7&theme=darkhub" 
+    alt="Trophies"
+    style="border: 2px solid gold; border-radius: 8px; margin:5px"
+  />
 </p>
 
----
-
-<!-- (옵션) 프로필 방문자 수 뱃지 -->
+<!-- 프로필 방문자 수 (옵션) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karl21-02&style=flat-square" alt="Profile Views"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=karl21-02&style=flat-square" 
+    alt="Profile Views"
+    style="border: 1px solid #c99800; border-radius: 4px; padding:2px"
+  />
 </p>
 
----
+<!-- 하단 문구 -->
+<div align="center" style="color:#c99800; font-size: 14px; margin-top:10px;">
+  <em>"Let your code shine like Apollo's sun!"</em>
+</div>
+
 
 <!-- **둥둥 떠다니는** 애니메이션 SVG -->
 <h2 align="center">:sparkles: Floating Animation Example :sparkles:</h2>
