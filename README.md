@@ -74,22 +74,22 @@
 ## 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Stats 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=radical" height="165" alt="github stats" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical" height="165" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl21-02&layout=compact&theme=radical" height="165" alt="top langs" />
 </p>
 
 <!-- 깃허브 트로피 (옵션) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_ID&row=1&column=7&theme=darkhub" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karl21-02&row=1&column=7&theme=darkhub" alt="trophy" />
 </p>
 
 ---
 
 <!-- (옵션) 프로필 방문자 수 뱃지 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=karl21-02&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
