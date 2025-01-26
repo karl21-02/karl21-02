@@ -160,9 +160,13 @@
 
 ---
 
-<!-- (옵션) 프로필 방문자 수 뱃지 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=karl21-02&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
+
+<!-- 하단 배너(옵션) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=90&section=footer&text=Thank%20You!&fontSize=20" />
+</p>
