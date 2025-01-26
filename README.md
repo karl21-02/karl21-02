@@ -145,15 +145,15 @@
 ## 📊 GitHub Stats
 <p align="center">
   <!-- 깃허브 스탯 카드: 테마 변경 (onedark) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=onedark" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=onelight" height="165" alt="github stats" />
   
   <!-- 가장 많이 사용한 언어: 테마도 동일(onelight, onedark 등) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl21-02&layout=compact&theme=onedark" height="165" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl21-02&layout=compact&theme=onelight" height="165" alt="top langs" />
 </p>
 
 <!-- 깃허브 트로피 (옵션), onedark 테마 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karl21-02&row=1&column=7&theme=onedark" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karl21-02&row=1&column=7&theme=onelight" alt="trophy" />
 </p>
 
 ---
@@ -163,8 +163,3 @@
 </p>
 
 ---
-
-<!-- 하단 배너(옵션) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=90&section=footer&text=Thank%20You!&fontSize=20" />
-</p>
