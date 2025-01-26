@@ -33,9 +33,6 @@
     Let’s make a dent in the universe
   </p>
   
-  <!-- 작게 구분선(가로줄) -->
-  <hr style="width: 60%; border: 0; border-top: 1px solid #e0aaff; margin: 8px auto;">
-
   <!-- 메인 자기소개 텍스트 -->
   <p style="
        font-size: 15px; 
@@ -56,7 +53,8 @@
   </p>
 
 </div>
-
+  <!-- 작게 구분선(가로줄) -->
+  <hr style="width: 60%; border: 0; border-top: 1px solid #e0aaff; margin: 8px auto;">
 
 ###
 
