@@ -134,12 +134,46 @@
 
 ###
 
-<h3 align="center">🔥   My Stats</h3>
+## 🔧 Tech Stack
+<p align="center">
+  <!-- 원하는 스택/툴 뱃지를 추가 -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karl21-02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karl21-02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=karl21-02&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 💻 Baekjoon (BOJ) Stats
+<p align="center">
+  <!-- Solved.ac 통계 뱃지(mazassumnida 등) 예시: YOUR_BAEKJOON_ID 교체 -->
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manuna530" alt="Baekjoon Stats" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <!-- 깃허브 스탯 카드: 테마 변경 (onedark) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=onedark" height="165" alt="github stats" />
+  
+  <!-- 가장 많이 사용한 언어: 테마도 동일(onelight, onedark 등) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl21-02&layout=compact&theme=onedark" height="165" alt="top langs" />
+</p>
+
+<!-- 깃허브 트로피 (옵션), onedark 테마 -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karl21-02&row=1&column=7&theme=onedark" alt="trophy" />
+</p>
+
+---
+
+<!-- (옵션) 프로필 방문자 수 뱃지 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&style=flat-square" alt="Profile Views"/>
+</p>
+
+---
