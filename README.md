@@ -65,9 +65,8 @@
 ---
 
 ## 💻 Baekjoon (BOJ) Stats
-<!-- Solved.ac 통계 뱃지(mazassumnida 등) 예시: YOUR_BAEKJOON_ID 교체 -->
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BAEKJOON_ID" alt="Baekjoon Stats" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manuna530" alt="Baekjoon Stats" />
 </p>
 
 ---
