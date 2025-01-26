@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/karl21-02?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:manuna530@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail=email?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-manuna530@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/%EC%A4%80%ED%9D%AC-%EA%B9%80-8a731b230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
