@@ -3,7 +3,7 @@
 <!-- 상단 헤더 배너 (capsule-render) -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=230&section=header&text=Hello,%20I'm%20YOUR_NAME!&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20My%20Profile&descAlignY=51&descAlign=64" 
+    src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=230&section=header&text=Hello,%20I'm%20KARL!&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20My%20Profile&descAlignY=51&descAlign=64" 
     alt="header"
 />
 </p>
@@ -11,7 +11,7 @@
 <!-- 간단 자기소개 -->
 <h2 align="center">🙋‍♀ About Me 🙋‍♀</h2>
 <p align="center">
-  안녕하세요, <strong>KARL</strong><br/>
+  <strong>Let’s make a dent in the universe</strong><br/>
 </p>
 
 <!-- 주요 소셜/연락처 뱃지 -->
