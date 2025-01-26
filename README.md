@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/manuna530@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/%EC%A4%80%ED%9D%AC-%EA%B9%80-8a731b230/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog/LinkedIn-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
   </a>
 </p>
 
