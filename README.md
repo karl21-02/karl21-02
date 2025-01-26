@@ -11,19 +11,18 @@
 <!-- 간단 자기소개 -->
 <h2 align="center">🙋‍♀ About Me 🙋‍♀</h2>
 <p align="center">
-  안녕하세요, <strong>여기에 본인 소개</strong>를 적어주세요.<br/>
-  예: "웹 백엔드와 AI에 관심이 많은 대학생 개발자입니다."
+  안녕하세요, <strong>KARL</strong><br/>
 </p>
 
 <!-- 주요 소셜/연락처 뱃지 -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_ID">
+  <a href="https://github.com/karl21-02">
     <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_ID-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:manuna530@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-YOUR_EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR_BLOG_OR_PORTFOLIO" target="_blank">
+  <a href="https://www.linkedin.com/in/%EC%A4%80%ED%9D%AC-%EA%B9%80-8a731b230/" target="_blank">
     <img src="https://img.shields.io/badge/Blog/Portfolio-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
   </a>
 </p>
