@@ -17,13 +17,13 @@
 <!-- 주요 소셜/연락처 뱃지 -->
 <p align="center">
   <a href="https://github.com/karl21-02">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_ID-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/karl21-02?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:manuna530@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-YOUR_EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/manuna530@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/%EC%A4%80%ED%9D%AC-%EA%B9%80-8a731b230/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog/Portfolio-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog/LinkedIn-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
   </a>
 </p>
 
