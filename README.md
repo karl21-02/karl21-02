@@ -11,14 +11,14 @@
 
 <!-- 주요 소셜/연락처 뱃지 -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_ID">
+  <a href="https://github.com/karl21-02">
     <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_ID-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-YOUR_EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:manuna530@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR_BLOG_OR_PORTFOLIO" target="_blank">
-    <img src="https://img.shields.io/badge/Blog/Portfolio-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/%EC%A4%80%ED%9D%AC-%EA%B9%80-8a731b230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
   </a>
 </p>
 
@@ -116,7 +116,7 @@
 ## 💻 Baekjoon (BOJ) Stats
 <p align="center">
   <!-- Solved.ac 통계 뱃지(mazassumnida 등) 예시: YOUR_BAEKJOON_ID 교체 -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BAEKJOON_ID" alt="Baekjoon Stats" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manuna530" alt="Baekjoon Stats" />
 </p>
 
 ---
@@ -143,24 +143,6 @@
 </p>
 
 ---
-
-<!-- **둥둥 떠다니는** 애니메이션 SVG -->
-<h2 align="center">:sparkles: Floating Animation Example :sparkles:</h2>
-<p align="center">
-  <!-- 여기서는 원(circle)이 둥둥 떠오르는 예시 -->
-  <svg width="150" height="150" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100" height="100" fill="none" />
-    <circle cx="50" cy="50" r="20" fill="skyblue">
-      <animateTransform 
-        attributeName="transform"
-        attributeType="XML"
-        type="translate"
-        dur="2s"
-        values="0 0; 0 -8; 0 0"
-        repeatCount="indefinite" />
-    </circle>
-  </svg>
-</p>
 
 <!-- 하단 배너(옵션) -->
 <p align="center">
