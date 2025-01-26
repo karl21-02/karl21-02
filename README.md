@@ -1,3 +1,5 @@
+<!-- 깃허브 프로필 README 예시, 애니메이션 SVG 추가 버전 -->
+
 <!-- 상단 헤더 배너 (capsule-render) -->
 <p align="center">
   <img 
@@ -29,10 +31,10 @@
 ---
 
 ## 🏆 Wins
-| **활동**                           | **설명** |
-| :--------------------------------- | :------- |
-| 삼성증권 디지털 IT학회             | 대상     |
-| 메디럭스 X 잇타 연합 해커톤        | 우수상   |
+| **활동**                     | **설명** |
+| :--------------------------- | :------- |
+| 삼성증권 디지털 IT학회       | 대상     |
+| 메디럭스 X 잇타 연합 해커톤  | 우수상   |
 
 ---
 
@@ -59,15 +61,13 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/>
-  <!-- ...etc... -->
 </p>
 
 ---
 
 ## 💻 Baekjoon (BOJ) Stats
-<!-- Solved.ac 통계 뱃지(mazassumnida 등) 예시 -->
+<!-- Solved.ac 통계 뱃지(mazassumnida 등) 예시: YOUR_BAEKJOON_ID 교체 -->
 <p align="center">
-  <!-- boj아이디=YOUR_BAEKJOON_ID 로 교체 -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BAEKJOON_ID" alt="Baekjoon Stats" />
 </p>
 
@@ -77,11 +77,12 @@
 <p align="center">
   <!-- GitHub Stats 카드 -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" height="165" alt="github stats" />
+  
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical" height="165" alt="top langs" />
 </p>
 
-<!-- (옵션) 깃허브 트로피: https://github.com/ryo-ma/github-profile-trophy -->
+<!-- 깃허브 트로피 (옵션) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_ID&row=1&column=7&theme=darkhub" alt="trophy" />
 </p>
@@ -93,8 +94,30 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&style=flat-square" alt="Profile Views"/>
 </p>
 
-<!-- (옵션) 하단 배너/이미지 -->
+---
+
+<!-- **둥둥 떠다니는** 애니메이션 SVG -->
+<h2 align="center">:sparkles: Floating Animation Example :sparkles:</h2>
+<p align="center">
+  <!-- 여기서는 원 하나가 둥둥 떠오르는 예시로 구현 -->
+  <svg width="150" height="150" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- 배경(선택) -->
+    <rect width="100" height="100" fill="none" />
+    <!-- 둥둥 떠다니는 원(circle) -->
+    <circle cx="50" cy="50" r="20" fill="skyblue">
+      <!-- up-down 반복 애니메이션 -->
+      <animateTransform 
+        attributeName="transform"
+        attributeType="XML"
+        type="translate"
+        dur="2s"
+        values="0 0; 0 -8; 0 0"
+        repeatCount="indefinite" />
+    </circle>
+  </svg>
+</p>
+
+<!-- 하단 배너(옵션) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=90&section=footer&text=Thank%20You!&fontSize=20" />
 </p>
-
