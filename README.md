@@ -141,7 +141,9 @@
 </p>
 <p align="center">
   🎯 <b>2025년 6월 1일까지 다이아3 달성! 해보겠습니다.</b>  
-</p>---
+</p>
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
