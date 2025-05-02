@@ -30,7 +30,6 @@
        font-size: 18px; 
        font-weight: bold; 
        color: #c77dff;">
-    Let’s make a dent in the universe
   </p>
   
   <!-- 메인 자기소개 텍스트 -->
