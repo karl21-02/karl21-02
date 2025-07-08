@@ -64,9 +64,6 @@
   <!-- Solved.ac 통계 뱃지(mazassumnida 등) 예시: YOUR_BAEKJOON_ID 교체 -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manuna530" alt="Baekjoon Stats" />
 </p>
-<p align="center">
-  🎯 <b>2025년 6월 1일까지 다이아3 달성! 해보겠습니다.</b>  
-</p>
 
 ---
 
