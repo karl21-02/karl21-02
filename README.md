@@ -50,7 +50,7 @@ I enjoy collaboration and learning, and I love to grow in challenging environmen
 
 <h2 align="center">🎓 Scholarships</h2>
 <p align="center">
-<strong>National Science & Engineering Excellence Scholarship</strong> (2025 - Present)
+<strong>National Science & Engineering Excellence Scholarship</strong>
 </p>
 
 <h2 align="center">💻 Baekjoon (BOJ) Stats</h2>
