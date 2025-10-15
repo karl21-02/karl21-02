@@ -1,4 +1,4 @@
-<h1 align="center">🏛 My Odyssey 🏛</h1>
+<h1 align="center">🏛️ My Odyssey 🏛️</h1>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/%EC%A4%80%ED%9D%AC-%EA%B9%80-8a731b230/" target="_blank">
@@ -9,7 +9,7 @@
 </a>
 </div>
 
-<h3 align="center">👩‍💻 About Me</h3>
+<h2 align="center">👩‍💻 About Me</h2>
 
 <!-- About Me Box -->
 
@@ -43,13 +43,17 @@ I enjoy collaboration and learning, and I love to grow in challenging environmen
 </p>
 </div>
 
-💼 Experience
-Doortoout (June 2025 - December 2025)
+<h2 align="center">💼 Experience</h2>
+<p align="center">
+<strong>Doortoout</strong> (June 2025 - December 2025)
+</p>
 
-🎓 Scholarships
-National Science & Engineering Excellence Scholarship (2025 - Present)
+<h2 align="center">🎓 Scholarships</h2>
+<p align="center">
+<strong>National Science & Engineering Excellence Scholarship</strong> (2025 - Present)
+</p>
 
-🛠️ Skills
+<h2 align="center">🛠️ Skills</h2>
 <p align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>&nbsp;
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django"/>&nbsp;
@@ -62,12 +66,12 @@ National Science & Engineering Excellence Scholarship (2025 - Present)
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
 </p>
 
-💻 Baekjoon (BOJ) Stats
+<h2 align="center">💻 Baekjoon (BOJ) Stats</h2>
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manuna530" alt="Baekjoon Stats" />
 </p>
 
-📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=karl21-02&show_icons=true&theme=onelight" height="165" alt="github stats" />
 &nbsp;&nbsp;&nbsp;&nbsp;
