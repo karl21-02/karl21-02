@@ -58,11 +58,6 @@ I enjoy collaboration and learning, and I love to grow in challenging environmen
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manuna530" alt="Baekjoon Stats" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl21-02&layout=compact&theme=onelight" height="165" alt="top langs" />
-</p>
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=karl21-02&row=1&column=7&theme=onelight" alt="trophy" />
 </p>
