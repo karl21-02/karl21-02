@@ -59,9 +59,5 @@ I enjoy collaboration and learning, and I love to grow in challenging environmen
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=karl21-02&row=1&column=7&theme=onelight" alt="trophy" />
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=karl21-02&style=flat-square" alt="Profile Views"/>
 </p>
