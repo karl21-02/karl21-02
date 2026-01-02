@@ -43,16 +43,6 @@ I enjoy collaboration and learning, and I love to grow in challenging environmen
 </p>
 </div>
 
-<h2 align="center">💼 Experience</h2>
-<p align="center">
-<strong>Doortoout</strong> (June 2025 - December 2025)
-</p>
-
-<h2 align="center">🎓 Scholarships</h2>
-<p align="center">
-<strong>National Science & Engineering Excellence Scholarship</strong>
-</p>
-
 <h2 align="center">💻 Baekjoon (BOJ) Stats</h2>
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manuna530" alt="Baekjoon Stats" />
