@@ -13,7 +13,7 @@ text { font-family: ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monos
 <circle cx="17" cy="18" r="3.5" fill="#f85149"/>
 <circle cx="31" cy="18" r="3.5" fill="#d29922"/>
 <circle cx="45" cy="18" r="3.5" fill="#3fb950"/>
-<text x="845" y="22" text-anchor="end" fill="#8b949e" font-size="10">contributions.sh</text><text x="57.0" y="62" fill="#8b949e" font-size="10">Nov</text><g class="cell" style="animation-delay:0.000s">
+<text x="845" y="22" text-anchor="end" fill="#8b949e" font-size="10">contributions</text><text x="57.0" y="62" fill="#8b949e" font-size="10">Nov</text><g class="cell" style="animation-delay:0.000s">
 <rect x="57.0" y="75" width="11.0" height="11" rx="2.2" fill="#0e4429"/>
 <title>2025-11-16: 1 contributions</title></g><g class="cell" style="animation-delay:0.028s">
 <rect x="57.0" y="89" width="11.0" height="11" rx="2.2" fill="#0e4429"/>

@@ -12,23 +12,17 @@ text { font-family: ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monos
 <circle cx="17" cy="18" r="3.5" fill="#f85149"/>
 <circle cx="31" cy="18" r="3.5" fill="#d29922"/>
 <circle cx="45" cy="18" r="3.5" fill="#3fb950"/>
-<text x="475" y="22" text-anchor="end" fill="#8b949e" font-size="10">whoami</text><text x="25" y="69" fill="#3fb950" font-size="19" font-weight="700">karl21-02@github</text><path d="M25 85H465" stroke="#30363d" stroke-dasharray="4 4"/><g class="reveal" style="animation-delay:0.20s">
-<text x="25" y="116" fill="#3fb950" font-size="12" font-weight="600">Name</text>
-<text x="104" y="116" fill="#c9d1d9" font-size="13">김준희</text>
+<text x="475" y="22" text-anchor="end" fill="#8b949e" font-size="10">profile</text><text x="25" y="69" fill="#3fb950" font-size="19" font-weight="700">karl21-02</text><path d="M25 85H465" stroke="#30363d" stroke-dasharray="4 4"/><g class="reveal" style="animation-delay:0.20s">
+<text x="25" y="125" fill="#3fb950" font-size="12" font-weight="600">Name</text>
+<text x="104" y="125" fill="#c9d1d9" font-size="13">김준희</text>
 </g><g class="reveal" style="animation-delay:0.34s">
-<text x="25" y="148" fill="#3fb950" font-size="12" font-weight="600">Bio</text>
-<text x="104" y="148" fill="#c9d1d9" font-size="13">木鷄之德</text>
+<text x="25" y="169" fill="#3fb950" font-size="12" font-weight="600">Bio</text>
+<text x="104" y="169" fill="#c9d1d9" font-size="13">木鷄之德</text>
 </g><g class="reveal" style="animation-delay:0.48s">
-<text x="25" y="180" fill="#3fb950" font-size="12" font-weight="600">Code</text>
-<text x="104" y="180" fill="#c9d1d9" font-size="13">Java · Python · TypeScript</text>
+<text x="25" y="213" fill="#3fb950" font-size="12" font-weight="600">Code</text>
+<text x="104" y="213" fill="#c9d1d9" font-size="13">Java · Python · TypeScript</text>
 </g><g class="reveal" style="animation-delay:0.62s">
-<text x="25" y="212" fill="#3fb950" font-size="12" font-weight="600">Build</text>
-<text x="104" y="212" fill="#c9d1d9" font-size="13">Backend · AI · Web</text>
-</g><g class="reveal" style="animation-delay:0.76s">
-<text x="25" y="244" fill="#3fb950" font-size="12" font-weight="600">Projects</text>
-<text x="104" y="244" fill="#c9d1d9" font-size="11.5">GraphRAG / boardserver / Synesth</text>
-</g><g class="reveal" style="animation-delay:0.90s">
-<text x="25" y="276" fill="#3fb950" font-size="12" font-weight="600">Web</text>
-<text x="104" y="276" fill="#c9d1d9" font-size="11.5">karl21-02.github.io/KarlPage</text>
-</g><rect x="25" y="320" width="25" height="13" fill="#30363d"/><rect x="50" y="320" width="25" height="13" fill="#f85149"/><rect x="75" y="320" width="25" height="13" fill="#3fb950"/><rect x="100" y="320" width="25" height="13" fill="#d29922"/><rect x="125" y="320" width="25" height="13" fill="#58a6ff"/><rect x="150" y="320" width="25" height="13" fill="#bc8cff"/><rect x="175" y="320" width="25" height="13" fill="#39c5cf"/><rect x="200" y="320" width="25" height="13" fill="#c9d1d9"/><text x="25" y="356" fill="#8b949e" font-size="10">$ echo "木鷄之德"</text>
+<text x="25" y="257" fill="#3fb950" font-size="12" font-weight="600">Build</text>
+<text x="104" y="257" fill="#c9d1d9" font-size="13">Backend · AI · Web</text>
+</g><rect x="25" y="320" width="25" height="13" fill="#30363d"/><rect x="50" y="320" width="25" height="13" fill="#f85149"/><rect x="75" y="320" width="25" height="13" fill="#3fb950"/><rect x="100" y="320" width="25" height="13" fill="#d29922"/><rect x="125" y="320" width="25" height="13" fill="#58a6ff"/><rect x="150" y="320" width="25" height="13" fill="#bc8cff"/><rect x="175" y="320" width="25" height="13" fill="#39c5cf"/><rect x="200" y="320" width="25" height="13" fill="#c9d1d9"/>
 </svg>

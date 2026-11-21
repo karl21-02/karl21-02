@@ -18,7 +18,7 @@ def main() -> None:
     step = min(14, 742 / max(columns, 1))
     size = step - 3
     x0, y0 = 57, 75
-    body = chrome(860, "contributions.sh")
+    body = chrome(860, "contributions")
     months = set()
     for day in days:
         date = dt.date.fromisoformat(day["date"])
