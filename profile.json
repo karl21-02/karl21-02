@@ -1,0 +1,13 @@
+{
+  "username": "karl21-02",
+  "name": "김준희",
+  "bio": "木鷄之德",
+  "code": "Java · Python · TypeScript",
+  "build": "Backend · AI · Web",
+  "portfolio": "https://karl21-02.github.io/KarlPage/",
+  "projects": [
+    {"name": "GraphRAG", "description": "Neo4j + LangChain", "url": "https://github.com/karl21-02/GraphRAG"},
+    {"name": "boardserver", "description": "High-traffic backend", "url": "https://github.com/karl21-02/boardserver"},
+    {"name": "Synesth", "description": "AI-powered soundtracks", "url": "https://github.com/karl21-02/Synesth"}
+  ]
+}

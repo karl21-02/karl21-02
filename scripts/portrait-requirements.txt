@@ -1,0 +1,5 @@
+# Only needed when replacing the portrait, not by the daily workflow.
+Pillow==13.0.0
+numpy==2.4.6
+opencv-python-headless==5.1.0.95
+rembg[cpu]==2.0.87
