@@ -12,6 +12,18 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 
 
+def validate_calendar(days: list[dict], today: dt.date) -> None:
+    dates = sorted(dt.date.fromisoformat(day["date"]) for day in days)
+    if not 365 <= len(dates) <= 371:
+        raise ValueError("Incomplete yearly calendar; refusing to replace stored data")
+    if dates[-1] < today - dt.timedelta(days=1) or dates[-1] > today:
+        raise ValueError("Calendar is stale or contains future dates")
+    if dates[0] > today - dt.timedelta(days=364):
+        raise ValueError("Calendar does not cover the last year")
+    if any(right - left != dt.timedelta(days=1) for left, right in zip(dates, dates[1:])):
+        raise ValueError("Calendar has missing or duplicate dates")
+
+
 def parse_contributions(html: str, today: dt.date) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     tooltips = {tip.get("for"): tip.get_text(" ", strip=True)
@@ -29,7 +41,9 @@ def parse_contributions(html: str, today: dt.date) -> list[dict]:
             count = int(match[1].replace(",", ""))
         else:
             raise ValueError(f"Cannot read contribution count for {date}: calendar markup changed")
-        level = int(cell.get("data-level", 0))
+        if "data-level" not in cell.attrs:
+            raise ValueError(f"Missing contribution color level for {date}")
+        level = int(cell["data-level"])
         if not 0 <= level <= 4:
             raise ValueError(f"Invalid contribution color level for {date}")
         key = date.isoformat()
@@ -86,7 +100,9 @@ def main() -> None:
                             headers={"User-Agent": "karl21-02-profile/1.0"}, timeout=30)
     response.raise_for_status()
     today = dt.datetime.now(dt.timezone.utc).date()
-    data = build_data(parse_contributions(response.text, today), today)
+    days = parse_contributions(response.text, today)
+    validate_calendar(days, today)
+    data = build_data(days, today)
     output = ROOT / "data/contributions.json"
     output.parent.mkdir(exist_ok=True)
     temporary = output.with_suffix(".tmp")
