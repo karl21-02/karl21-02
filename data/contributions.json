@@ -1,13 +1,13 @@
 {
   "username": "karl21-02",
-  "as_of": "2026-11-27",
+  "as_of": "2026-11-28",
   "range": {
     "start": "2025-11-23",
-    "end": "2026-11-27"
+    "end": "2026-11-28"
   },
-  "total_contributions": 10106,
-  "active_days": 333,
-  "current_streak": 15,
+  "total_contributions": 10162,
+  "active_days": 334,
+  "current_streak": 16,
   "longest_streak": 73,
   "best_day": {
     "date": "2026-05-20",
@@ -27,7 +27,7 @@
     "2026-08": 818,
     "2026-09": 594,
     "2026-10": 1479,
-    "2026-11": 1124
+    "2026-11": 1180
   },
   "days": [
     {
@@ -1878,6 +1878,11 @@
     {
       "date": "2026-11-27",
       "count": 88,
+      "level": 2
+    },
+    {
+      "date": "2026-11-28",
+      "count": 56,
       "level": 2
     }
   ]
